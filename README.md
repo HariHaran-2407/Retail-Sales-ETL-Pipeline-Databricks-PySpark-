@@ -14,10 +14,7 @@ The project follows the **Medallion Architecture** approach:
 
 Source → Bronze → Silver → Gold
 
-<img width="1519" height="598" alt="image" src="https://github.com/user-attachments/assets/9dcbf227-a4d1-430b-b578-4126c89b3afa" />
-
-
-
+<img width="1761" height="768" alt="image" src="https://github.com/user-attachments/assets/15e91b4f-3912-4d7c-b42a-bb0b28c10831" />
 
 ### Source Layer
 - Raw CSV retail sales dataset.
