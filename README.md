@@ -14,7 +14,8 @@ The project follows the **Medallion Architecture** approach:
 
 Source → Bronze → Silver → Gold
 
-<img width="1046" height="415" alt="image" src="https://github.com/user-attachments/assets/decdd1ef-b1e7-44a0-8e44-567cc236539b" />
+<img width="1519" height="598" alt="image" src="https://github.com/user-attachments/assets/9dcbf227-a4d1-430b-b578-4126c89b3afa" />
+
 
 
 
